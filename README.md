@@ -46,10 +46,5 @@ Agenda 启动后，读取位于磁盘上的所有已存用户信息和会议信�
 Agenda 退出时，必须将现有的所有用户信息和会议信息写入磁盘。
 
 ---
-
-<<<<<<< HEAD
 **Except the basic functions, I add very easy sockets version of Agenda.**
-=======
-**Except the basic functions, I add sockets version of Agenda.**
->>>>>>> dev
 **I will update the repository if I have time in the future**
